@@ -20,3 +20,8 @@ h3{
 .badge-success{
     background-color: goldenrod !important;
 }
+.linkkk, .linkkk:hover{
+    text-decoration: none;
+    color: goldenrod;
+    font-weight: bold;
+}
